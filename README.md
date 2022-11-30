@@ -1,0 +1,2 @@
+# Treasure Hunt
+Create a game that gives the user options to choose from. Based on a selected option, let them progress to another stage that ends the game or gives another set of options until they win the game.
